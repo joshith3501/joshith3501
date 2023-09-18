@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on React and Next.js.
 
-![Joshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshith3501&show_icons=true&theme=gruvbox)]
+![Joshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshith3501&show_icons=true&theme=gruvbox)
