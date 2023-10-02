@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently learn on React and Next.js.
+- 🔭 I’m currently learning React and Next.js.
 
 ![Joshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshith3501&show_icons=true&theme=gruvbox)
